@@ -1,0 +1,3 @@
+/home/alireza/CLionProjects/Algorithms_in_C/Number_2_Binary/cmake-build-debug/CMakeFiles/Number_2_Binary.dir
+/home/alireza/CLionProjects/Algorithms_in_C/Number_2_Binary/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alireza/CLionProjects/Algorithms_in_C/Number_2_Binary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
