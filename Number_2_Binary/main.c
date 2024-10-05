@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//bin compute binary equivalent of a number like 10 into 64-bit binary number, eg. 10 => 101000000000...0
+//bin compute binary equivalent of a decimal number to 64-bit binary number, eg. 10 => 101000000000...0 from lowest bit to highest bit
 void bin(int x) {
     int divisor = 2;
     int num[64] = {0};
