@@ -1,2 +1,8 @@
 # Algorithms_in_C
-Based on Algorithms in C by Robert Sedgewick - Learn Algorithms
+Algorithms in C - Learn Algorithms
+## Fundamentals
+- Euclid Algorithm
+- Decimal to Binary
+- Basic LinkedList
+- Basic PushdownStack
+- Basic Queue
