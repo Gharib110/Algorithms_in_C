@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <malloc.h>
 
+// The LinkedList is basic and just have insertAfter and deleteAfter, but you can implement many functionalities
+// for the linkedList
 struct node {
     int value;
     struct node* next;
@@ -21,9 +23,11 @@ struct node* insert_after(int value, struct node* temp) {
     x -> value = value;
     x -> next = temp -> next;
     temp -> next = x;
+
+    return x;
 }
 
-void delete_next_node(struct node* temp) {
+void delete_after(struct node* temp) {
     temp -> next = temp -> next ->next;
     free(temp -> next);
 }
